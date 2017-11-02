@@ -61,7 +61,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "49f403013acc8c3234c8"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "f9507fc78760fce76e3f"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -22419,7 +22419,7 @@ var Work = function Work(_ref) {
         _react2.default.createElement(
           'div',
           { className: 'col-md-6' },
-          _react2.default.createElement('img', { src: '/images/imageeditor.png' })
+          _react2.default.createElement('img', { src: '/images/ImageEditor.png' })
         )
       )
     )
